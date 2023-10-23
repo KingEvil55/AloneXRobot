@@ -1,7 +1,7 @@
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     MY ALL BOTS :- AloneXBots
-#     GITHUB :- TEAMALONEOP ""
+# TG :- @imnot_avanish
+#     MY ALL BOTS :- BrokenAssociation 
+#     GITHUB :- KingEvil55 ""
 
 from platform import python_version as y
 
@@ -13,7 +13,7 @@ from telethon import __version__ as s
 
 from Alone import AloneX as pbot
 
-AloneXX = "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg"
+AloneXX = "https://graph.org/file/59454c2dbad2cb44fc690.jpg"
 
 
 @pbot.on_message(filters.command("repo"))
@@ -22,7 +22,7 @@ async def repo(_, message):
         photo=AloneXX,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [𝐀ʟᴏɴᴇ](https://t.me/ALONE_WAS_BOT)**
+**ᴏᴡɴᴇʀ  : [𝙸𝚖𝙽𝚘𝚝 ⁪⁬⁮⁮⁮⁮‌𝑬𝒓𝒆𝒏 𝒀𝒆𝒂𝒈𝒆𝒓😵😵‍](https://t.me/imnot_avanish)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -33,10 +33,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "Aʟᴏɴᴇ Mᴜsɪᴄ", url="https://github.com/TeamAloneOp/AloneXMusic/fork"
+                        "𝗕ʀᴏᴋᴇɴ Mᴜsɪᴄ", url="https:t.me/BrokenXMusic"
                     ),
                     InlineKeyboardButton(
-                        "Aʟᴏɴᴇ Rᴏʙᴏᴛ", url="https://github.com/TeamAloneOp/AloneXRobot/fork"
+                        "𝗕ʀᴏᴋᴇɴ Rᴏʙᴏᴛ", url="https://t.me/BrokenXRoBot"
                     ),
                 ]
             ]
