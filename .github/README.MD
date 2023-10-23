@@ -20,7 +20,7 @@
   <img src="https://graph.org/file/ba76238694cd10ef61590.jpg">
 </p>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/brokeXnWorld) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/BrokenAssociation) 
 
 ## sᴛᴀᴛs
 <p align="center">
@@ -34,7 +34,7 @@
 <a href="https://github.com/KingEvil55/AloneXRobot/commits/TeamAloneOp"> <img src="https://img.shields.io/github/last-commit/KingEvil55/AloneXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/BrokenXRoBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝗕ʀᴏᴋᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/BrokenXRoBot)**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
