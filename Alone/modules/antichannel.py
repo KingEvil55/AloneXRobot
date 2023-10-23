@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 TEAMALONEOP
+Copyright (c) 2022 KingEvil55 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     UPDATE   :- AloneXBots
-#     GITHUB :- TEAMALONEOP ""
+# TG :- @imnot_avanish
+#     UPDATE   :- BrokenAssociation 
+#     GITHUB :- KingEvil55 ""
 import html
 
 import requests
