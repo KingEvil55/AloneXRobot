@@ -1,9 +1,8 @@
-
 {
-    "name": "ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ",
+    "name": "𝗕ʀᴏᴋᴇɴ ✘ ʀᴏʙᴏᴛ",
     "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-    "repository": "https://github.com/TeamAloneOp/AloneXRobot",
-    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
+    "repository": "https://github.com/KingEvil55/AloneXRobot",
+    "logo": "https://graph.org/file/59454c2dbad2cb44fc690.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -45,17 +44,17 @@
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6079943111"
+         "value": "1138802391"
       },
       "DEV_USERS": {
-         "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
+         "descriptions": "ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6079943111"
+         "value": "1138802391"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "ALONE_WAS_BOT"
+         "value": "imnot_avanish"
       },
       "LOG_GROUP_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
