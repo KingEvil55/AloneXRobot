@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     UPDATE   :- AloneXBots
-#     GITHUB :- TEAMALONEOP ""
+# TG :- @imnot_avanish
+#     UPDATE   :- BrokenAssociation 
+#     GITHUB :- KingEvil55 ""
 
 
 import datetime
