@@ -1,9 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 TEAMALONEOP
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Copyright (c) KingEvil55 is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -23,9 +21,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     UPDATE   :- AloneXBots
-#     GITHUB :- TEAMALONEOP ""
+# TG :- @imnot_avanish
+#     UPDATE   :- BrokenAssociation 
+#     GITHUB :- KingEvil55 ""
 import html
 from datetime import timedelta
 from typing import Optional
