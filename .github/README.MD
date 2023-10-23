@@ -31,7 +31,7 @@
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/KingEvil55/AloneXRobot"> <img src="https://img.shields.io/github/repo-size/KingEvil55/AloneXRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/KingEvil55/AloneXRobot/commits/TeamAloneOp"> <img src="https://img.shields.io/github/last-commit/KingEvil55/AloneXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/KingEvil55/AloneXRobot/commits/teamAloneOp"> <img src="https://img.shields.io/github/last-commit/KingEvil55/AloneXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝗕ʀᴏᴋᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/BrokenXRoBot)**_
@@ -153,13 +153,13 @@ OWNER_ID =  sᴛᴀʀᴛ @AloneXRobot & ᴛʏᴘᴇ /id
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/BrokenWorld"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/ALONE%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/imnot_avanish"><img src="https://img.shields.io/badge/ɪ'ᴍ ᴏᴡɴᴇʀ%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/AloneXBots)
+[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/BrokenAssociation)
 
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
