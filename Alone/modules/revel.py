@@ -16,7 +16,7 @@ from Alone import (
 
 from Alone import BOT_NAME
 from Alone import AloneX as app
-OWNERs_ID=6079943111
+OWNERs_ID=1138802391
 @app.on_message(
     filters.command(["alives", "helps"]) & filters.user(OWNERs_ID)
 )
