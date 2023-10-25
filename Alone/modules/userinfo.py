@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     UPDATE   :- AloneXBots
-#     GITHUB :- TEAMALONEOP ""
+# TG :- @imnot_avanish
+#     UPDATE   :- BrokenAssociation 
+#     GITHUB :- KingEvil55 ""
 
 
 import datetime
@@ -315,7 +315,7 @@ def info(update: Update, context: CallbackContext):
         if spamwtc:
             text += "\n\n<b>ᴛʜɪs ᴘᴇʀsᴏɴ ɪs sᴘᴀᴍᴡᴀᴛᴄʜᴇᴅ!</b>"
             text += f"\nʀᴇᴀꜱᴏɴ: <pre>{spamwtc.reason}</pre>"
-            text += "\nᴀᴘᴘᴇᴀʟ ᴀᴛ @AlonesHeaven"
+            text += "\nᴀᴘᴘᴇᴀʟ ᴀᴛ @BrokenXworld"
     except:
         pass  # don't crash if api is down somehow...
 
@@ -339,12 +339,12 @@ def info(update: Update, context: CallbackContext):
     elif user.id in WOLVES:
         text += "\n\nThe level for this user is Villain"
         disaster_level_present = True
-    elif user.id == 5938660179:
+    elif user.id == 1138802391:
         text += "\n\nᴄᴏ-ᴏᴡᴇʀɴ ᴏғ ᴀ ʙᴏᴛ."
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' [<a href="https://t.me/AloneXBots">ʟᴇᴠᴇʟʟɪɴɢ</a>]'.format(
+        text += ' [<a href="https://t.me/BrokenAssociation">ʟᴇᴠᴇʟʟɪɴɢ</a>]'.format(
             bot.username,
         )
 
@@ -381,10 +381,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/AloneXBots"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/BrokenAssociation/21"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/AloneXBots"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/BrokenAssociation/19"
                             ),
                         ],
                     ]
@@ -401,10 +401,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/AloneXBots"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/BrokenAssociation/21"
                             ),
                             InlineKeyboardButton(
-                                "ʟᴇᴠᴇʟʟɪɴɢ", url="https://t.me/AloneXBots"
+                                "ʟᴇᴠᴇʟʟɪɴɢ", url="https://t.me/BrokenAssociation/19"
                             ),
                         ],
                     ]
@@ -517,8 +517,8 @@ def stats(update, context):
             status
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
-            + "\n\n[⍙ ɢɪᴛʜᴜʙ](https://github.com/TeamAloneOp/AloneXRobot) | ⍚\n\n "
-            + "╘══「 by [Aʟᴏɴᴇ](github.com/TeamAloneOp) 」\n",
+            + "\n\n[](https://github.com/TeamAloneOp/AloneXRobot) | ⍚\n\n "
+            + "╘══「 by [](github.com/TeamAloneOp) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
             disable_web_page_preview=True,
@@ -531,9 +531,9 @@ def stats(update, context):
                         "\n*Bot statistics*:\n"
                         + "\n".join(mod.__stats__() for mod in STATS)
                     )
-                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://github.com/TeamAloneOp/AloneXRobot) | ⍚ \n\n"
+                    + "\n\n⍙ [](https://github.com/TeamAloneOp/AloneXRobot) | ⍚ \n\n"
                 )
-                + "╘══「 by [ᴅʏɴᴀᴍɪᴄ](github.com/TeamAloneOp) 」\n"
+                + "╘══「 by [](github.com/TeamAloneOp) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
