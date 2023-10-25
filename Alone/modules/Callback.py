@@ -117,10 +117,7 @@ def AXB_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="start_back"),
-                        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="Dilwar_help"),
-                        InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛs", callback_data="AXB_credit"),
-                        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
+                        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="AXB_"),
                     ]
                 ]
             ),
@@ -173,18 +170,15 @@ def AXB_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="start_back"),
-                        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="AXB_admin"),
-                        InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛ", callback_data="Dilwar_help"),
-                        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
-                    ],
-                    [
                         InlineKeyboardButton(
                             text="ᴏᴡɴᴇʀ", url="https://t.me/imnot_avanish"
                         ),
                         InlineKeyboardButton(
                             text="ᴄʜᴀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
+                    ],
+                    [
+                        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="AXB_"),
                     ],
                 ]
             ),
