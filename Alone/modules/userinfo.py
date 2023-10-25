@@ -520,7 +520,7 @@ def stats(update, context):
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
             disable_web_page_preview=True,
-        )
+    )
     except BaseException:
         update.effective_message.reply_text(
             (
