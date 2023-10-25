@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     UPDATE   :- AloneXBots
-#     GITHUB :- TEAMALONEOP ""
+# TG :- @imnot_avanish
+#     UPDATE   :- BrokenAssociation 
+#     GITHUB :- KingEvil55 ""
 
 from pyrogram.types import CallbackQuery
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode
@@ -82,14 +82,14 @@ def AXB_about_callback(update, context):
             "\n• I ᴄᴀɴ ᴡᴀʀɴ ᴜsᴇʀs ᴜɴsɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴx, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇғɪɴᴇᴅ ᴀᴄᴛɪᴏɴs sᴜᴄʜ ᴀs ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
             "\n• I ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ sʏsᴛᴇᴍ, ʙʟᴀᴄᴋʟɪsᴛs, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇs ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅs."
             "\n• I ᴄʜᴇᴄᴋ ғᴏʀ ᴀᴅᴍɪɴs ᴘᴇʀᴍɪssɪᴏɴs ʙᴇғᴏʀᴇ ᴇxᴇᴄᴜᴛɪɴɢ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴍᴏʀᴇ sᴛᴜғғs"
-            "\n\n_Exᴏɴ ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ GNU ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ v3.0_"
+            "\n\n_𝗕ʀᴏᴋᴇɴ ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ GNU ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ v3.0_"
             "\n\n*ᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ʙᴀsɪᴄ ʜᴇʟᴘ ғᴏʀ ᴀʟᴏɴᴇʀᴏʙᴏᴛ*.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ᴀᴅᴍɪɴs", callback_data="AXB_admin"),
+                        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="AXB_admin"),
                         InlineKeyboardButton(text="ɴᴏᴛᴇs", callback_data="AXB_notes"),
                     ],
                     [
@@ -98,12 +98,6 @@ def AXB_about_callback(update, context):
                         ),
                         InlineKeyboardButton(
                             text="ᴄʀᴇᴅɪᴛs", callback_data="AXB_credit"
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="sᴏᴜʀᴄᴇ",
-                            callback_data="source_",
                         ),
                     ],
                     [
@@ -117,17 +111,16 @@ def AXB_about_callback(update, context):
 
     elif query.data == "AXB_admin":
         query.message.edit_text(
-            text=f"━━━━━━━ *ᴀᴅᴍɪɴ* ━━━━━━━\nʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ 𝙼ᴜsɪᴄ ᴍᴏᴅᴜʟᴇ\n⍟*ᴀᴅᴍɪɴ*\nᴏɴʟʏ ᴀᴅᴍɪɴs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs\n/pause/n»ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ.\n/resume\n» ʀᴇsᴜᴍᴇᴅ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ.\n/skip ᴏʀ /next\n»sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ.\n/end ᴏʀ /stop\n» ᴇɴᴅ ᴛʜᴇ ᴄᴜʀᴇᴇɴᴛ ᴏɴɢᴏɪɴ sᴛʀᴇᴀᴍ.\n⍟*ᴀᴜᴛʜ*\nᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴀᴜᴛʜ/ᴜɴᴀᴜᴛʜ ᴀɴʏ ᴜsᴇʀ\n• ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ᴄᴀɴ sᴋɪᴩ, ᴩᴀᴜsᴇ, ʀᴇsᴜᴍᴇ ᴀɴᴅ ᴇɴᴅ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴡɪᴛʜᴏᴜᴛ ᴀᴅᴍɪɴ ʀɪɢʜᴛs./n/auth ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ\n» ᴀᴅᴅ ᴀ ᴜsᴇʀ ᴛᴏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.\n/unauth ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ \n» ʀᴇᴍᴏᴠᴇs ᴛʜᴇ ᴜsᴇʀ ғʀᴏᴍ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ʟɪsᴛ.\n/authusers \n» sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.\n⍟*ᴘʟᴀʏ*\nᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴩʟᴀʏ sᴏɴɢs\n/play <sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ>\n» sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ sᴏɴɢ ᴏɴ ᴠᴄ.!",
+            text=f"━━━━━━━ *ᴍᴜsɪᴄ* ━━━━━━━\nʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ 𝙼ᴜsɪᴄ ᴍᴏᴅᴜʟᴇ\n⍟*ᴍᴜsɪᴄ*\nᴏɴʟʏ ᴀᴅᴍɪɴs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs\n/pause/n»ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ.\n/resume\n» ʀᴇsᴜᴍᴇᴅ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ.\n/skip ᴏʀ /next\n»sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ.\n/end ᴏʀ /stop\n» ᴇɴᴅ ᴛʜᴇ ᴄᴜʀᴇᴇɴᴛ ᴏɴɢᴏɪɴ sᴛʀᴇᴀᴍ.\n⍟*ᴀᴜᴛʜ*\nᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴀᴜᴛʜ/ᴜɴᴀᴜᴛʜ ᴀɴʏ ᴜsᴇʀ\n• ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ᴄᴀɴ sᴋɪᴩ, ᴩᴀᴜsᴇ, ʀᴇsᴜᴍᴇ ᴀɴᴅ ᴇɴᴅ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴡɪᴛʜᴏᴜᴛ ᴀᴅᴍɪɴ ʀɪɢʜᴛs./n/auth ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ\n» ᴀᴅᴅ ᴀ ᴜsᴇʀ ᴛᴏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.\n/unauth ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ \n» ʀᴇᴍᴏᴠᴇs ᴛʜᴇ ᴜsᴇʀ ғʀᴏᴍ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ʟɪsᴛ.\n/authusers \n» sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.\n⍟*ᴘʟᴀʏ*\nᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴩʟᴀʏ sᴏɴɢs\n/play <sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ>\n» sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ sᴏɴɢ ᴏɴ ᴠᴄ.!",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="🏡", callback_data="start_back"),
-                        InlineKeyboardButton(text="🛡️", callback_data="Dilwar_help"),
-                        InlineKeyboardButton(text="💳", callback_data="AXB_credit"),
-                        InlineKeyboardButton(text="🕹️", callback_data="source_"),
-                        InlineKeyboardButton(text="🖥️", callback_data="help_back"),
+                        InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="start_back"),
+                        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="Dilwar_help"),
+                        InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛs", callback_data="AXB_credit"),
+                        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
                     ]
                 ]
             ),
@@ -156,7 +149,7 @@ def AXB_about_callback(update, context):
                             text="sᴜᴘᴘᴏʀᴛ", url=f"t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/AloneXBots"
+                            text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/BrokenAssociation"
                         ),
                     ],
                     [
@@ -169,26 +162,25 @@ def AXB_about_callback(update, context):
     elif query.data == "AXB_credit":  # Credit  i hope edit nai hoga
         query.message.edit_text(
             text=f"━━━━━━━ *ᴄʀᴇᴅɪᴛ* ━━━━━━━"
-            "\n🛡️ *ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ* 🛡️"
+            "\n🛡️ *ᴄʀᴇᴅɪᴛ ꜰᴏʀ 𝗕ʀᴏᴋᴇɴ ʀᴏʙᴏᴛ* 🛡️"
             "\n\nʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ"
-            f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](t.me/AloneXRobot)"
+            f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](t.me/BrokenXRobot)"
             "\n\nʜᴇ ꜱᴘᴇɴᴛ ᴀ ʟᴏᴛ ᴏꜰ ᴛɪᴍᴇ ꜰᴏʀ"
-            f"\nᴍᴀᴋɪɴɢ ʙʏ [ᴀʟᴏɴᴇ](t.me/ALONE_WAS_BOT)"
+            f"\nᴍᴀᴋɪɴɢ ʙʏ [ᴀᴠᴀɴɪsʜ](t.me/imnot_avanish)"
             "\nꜱᴜᴘᴇʀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="🏡", callback_data="start_back"),
-                        InlineKeyboardButton(text="🛡️", callback_data="AXB_admin"),
-                        InlineKeyboardButton(text="💳", callback_data="Dilwar_help"),
-                        InlineKeyboardButton(text="🧑‍", callback_data="source_"),
-                        InlineKeyboardButton(text="🖥️", callback_data="help_back"),
+                        InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="start_back"),
+                        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="AXB_admin"),
+                        InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛ", callback_data="Dilwar_help"),
+                        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴀʟᴏɴᴇ", url="https://t.me/ALONE_WAS_BOT"
+                            text="ᴏᴡɴᴇʀ", url="https://t.me/imnot_avanish"
                         ),
                         InlineKeyboardButton(
                             text="ᴄʜᴀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
@@ -224,17 +216,11 @@ def Source_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="🏡", callback_data="start_back"),
-                        InlineKeyboardButton(text="🛡️", callback_data="AXB_admin"),
-                        InlineKeyboardButton(text="💳", callback_data="AXB_credit"),
-                        InlineKeyboardButton(text="🧑‍", url=f"tg://user?id={OWNER_ID}"),
-                        InlineKeyboardButton(text="🖥️", callback_data="help_back"),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="ꜱᴏᴜʀᴄᴇ",
-                            url="https://github.com/TeamAloneOp/AloneXRobot/fork",  # DON'T CHANGE
-                        ),
+                        InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="start_back"),
+                        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="AXB_admin"),
+                        InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛ", callback_data="AXB_credit"),
+                        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"tg://user?id={OWNER_ID}"),
+                        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
                     ],
                 ]
             ),
