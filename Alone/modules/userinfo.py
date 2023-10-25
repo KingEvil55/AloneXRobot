@@ -517,8 +517,8 @@ def stats(update, context):
             status
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
-            + "\n\n[](https://github.com/TeamAloneOp/AloneXRobot) | ⍚\n\n "
-            + "╘══「 by [](github.com/TeamAloneOp) 」\n",
+            + "\n\n[ᴏᴡɴᴇʀ](tg://openmessage?user_id=1138802391) | ⍚\n\n "
+            + "╘══「 by [ᴘᴏᴡᴇʀᴇᴅ ʙʏ](https://BrokenAssociation) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
             disable_web_page_preview=True,
